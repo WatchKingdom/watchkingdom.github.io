@@ -1,0 +1,16 @@
+Q.2 Use Image Mapping in Html
+Code:
+<html>
+<head>
+<title> Image Mapping </title>
+</head>
+<body>
+<img src="shapes.png" usemap="#azlan">
+<map name="azlan">
+	<area shape="rect" coords="26,35,218,227" title="Rediff" href="http://www.rediffmail.com">
+	<area shape="circle" coords="362,133,92" title="Google" href="http://www.google.com">
+</map>
+</body>
+</html>
+Output:
+ 

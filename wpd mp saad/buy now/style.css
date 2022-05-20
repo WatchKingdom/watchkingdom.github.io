@@ -1,0 +1,13 @@
+@import url('https://www.itl.cat/pngfile/big/225-2254230_luxury-watches-background.jpg');
+
+*{
+    margin: 0;
+    margin: 0;
+
+}
+body{ 
+    background: url("https://www.itl.cat/pngfile/big/225-2254230_luxury-watches-background.jpg");
+    background-size: 280%;
+    background-position: -400px 0px;
+    
+}
